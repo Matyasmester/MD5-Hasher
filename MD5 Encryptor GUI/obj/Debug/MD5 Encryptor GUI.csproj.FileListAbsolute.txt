@@ -1,0 +1,10 @@
+C:\Cs Projects\MD5 Encryptor GUI\MD5 Encryptor GUI\bin\Debug\MD5 Encryptor GUI.exe.config
+C:\Cs Projects\MD5 Encryptor GUI\MD5 Encryptor GUI\bin\Debug\MD5 Encryptor GUI.exe
+C:\Cs Projects\MD5 Encryptor GUI\MD5 Encryptor GUI\bin\Debug\MD5 Encryptor GUI.pdb
+C:\Cs Projects\MD5 Encryptor GUI\MD5 Encryptor GUI\obj\Debug\MD5 Encryptor GUI.csprojAssemblyReference.cache
+C:\Cs Projects\MD5 Encryptor GUI\MD5 Encryptor GUI\obj\Debug\MD5_Encryptor_GUI.Properties.Resources.resources
+C:\Cs Projects\MD5 Encryptor GUI\MD5 Encryptor GUI\obj\Debug\MD5 Encryptor GUI.csproj.GenerateResource.cache
+C:\Cs Projects\MD5 Encryptor GUI\MD5 Encryptor GUI\obj\Debug\MD5 Encryptor GUI.csproj.CoreCompileInputs.cache
+C:\Cs Projects\MD5 Encryptor GUI\MD5 Encryptor GUI\obj\Debug\MD5 Encryptor GUI.exe
+C:\Cs Projects\MD5 Encryptor GUI\MD5 Encryptor GUI\obj\Debug\MD5 Encryptor GUI.pdb
+C:\Cs Projects\MD5 Encryptor GUI\MD5 Encryptor GUI\obj\Debug\MD5_Encryptor_GUI.UI.resources
